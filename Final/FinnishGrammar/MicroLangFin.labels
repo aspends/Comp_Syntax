@@ -1,0 +1,5 @@
+PredVPS nsubj head
+ComplV2 root obj
+PrepNP case nmod
+AdvVP root advmod
+AdjCN amod nmod
